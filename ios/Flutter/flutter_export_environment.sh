@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=C:\Users\Dilshan Sandhu\Documents\flutter"
-export "FLUTTER_APPLICATION_PATH=D:\Courses\Udemy - The Complete 2020 Flutter Development Bootcamp with Dart\Projects\bmi calculator"
+export "FLUTTER_APPLICATION_PATH=D:\Courses\Udemy - The Complete 2020 Flutter Development Bootcamp with Dart\Projects\bmi calculator\BMI-Calculator"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build\ios"

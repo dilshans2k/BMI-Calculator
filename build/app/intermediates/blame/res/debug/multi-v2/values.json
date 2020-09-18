@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Courses\\Udemy - The Complete 2020 Flutter Development Bootcamp with Dart\\Projects\\bmi calculator\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Courses\\Udemy - The Complete 2020 Flutter Development Bootcamp with Dart\\Projects\\bmi calculator\\BMI-Calculator\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Courses\\Udemy - The Complete 2020 Flutter Development Bootcamp with Dart\\Projects\\bmi calculator\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Courses\\Udemy - The Complete 2020 Flutter Development Bootcamp with Dart\\Projects\\bmi calculator\\BMI-Calculator\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
